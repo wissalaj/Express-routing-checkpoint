@@ -1,0 +1,35 @@
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+li{
+    margin-right: 100px;
+}
+li a{
+    color: brown;
+    text-decoration: none;
+    font-size: medium;
+}
+.title{
+color: coral;
+}
+input{
+    border-radius: 8px;
+    background-color: #fff;
+    border:1px rgb(167, 151, 87) solid;
+    width: 150px;
+    height: 25px;
+}
+textarea{
+    border-radius: 8px;
+    background-color: #fff;
+    border:1px rgb(167, 151, 87) solid;
+    width: 150px;
+    height: 70px;
+}
+button{
+    background-color:rgb(167, 151, 87) ;
+    color: #fff;
+    margin:10px;
+}
